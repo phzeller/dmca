@@ -1,4 +1,4 @@
-*1.    *RockyPlugin is in violation of the LGPLv3 license set forth by
+1.    *RockyPlugin is in violation of the LGPLv3 license set forth by
 SpoutPlugin, by removing the attribution and copyright notices of original
 works (SpoutPlugin) that it is based on. Infringing content can be found
 at: https://github.com/VolumetricPixels/RockyPlugin and all direct forks of
@@ -10,27 +10,27 @@ https://github.com/VolumetricPixels/RockyPlugin/commit/bccbd169aff1c6de81916eef6
 https://github.com/VolumetricPixels/RockyPlugin/commit/56c2ab04eff240742c3301f85ed0850730ccffc3
 https://github.com/VolumetricPixels/RockyPlugin/commit/e9a5087247408305ee2c11e5913b8f4bc1ce69d8
 
-*2. *Much of the current RockyPlugin repository content is infringing,
+2. *Much of the current RockyPlugin repository content is infringing,
 as it is contains many minor source formatting changes and name
 refactoring, with removal of original attribution and copyright notices of
 original works (SpoutPlugin).
 
-*3. *[private]
+3. *[private]
 [private]
 [private]
 [private]
 [private]
 
-*4. *https://github.com/Wolftein
+4. *https://github.com/Wolftein
 [private]
 
-*5. *I have a good faith belief that use of the copyrighted materials
+5. *I have a good faith belief that use of the copyrighted materials
 described above on the infringing web pages is not authorized by the
 copyright owner, or its agent, or the law.
 
-*6. *I swear, under penalty of perjury, that the information in this
+6. *I swear, under penalty of perjury, that the information in this
 notification is accurate and that I am the copyright owner, or am
 authorized to act on behalf of the owner, of an exclusive right that is
 allegedly infringed.
 
-*7. Signed - *[private], *Technical Director, *Spout LLC
+7. Signed - *[private], *Technical Director, *Spout LLC
