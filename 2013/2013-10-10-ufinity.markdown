@@ -22,7 +22,7 @@ and is property of my Client.
 Content Type: Source code and project files
 Violation(s): Publishing of source code and project files that is property of my Client without
 permission and authority from my Company while working on the Project for Ufinity Pte Ltd.
-[5] Please act expeditiously to remove the file-downloads found at the following URLs: ttps://github.com/ariesliu/sgxfxfws
+[5] Please act expeditiously to remove the file-downloads found at the following URLs: https://github.com/ariesliu/sgxfxfws
 [6] I have a good faith belief that the circumvention of effective access controls and/or
 copyright protection measures identified above is not authorized by law; and
 [7] The information in this notice is accurate.
