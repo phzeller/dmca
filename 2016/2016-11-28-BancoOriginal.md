@@ -5,14 +5,14 @@ Yes, i'm act on the copyright owner.
 Was infringed the source code our mobile mabnking (https://play.google.com/store/apps/details?id=br.com.original.bank&hl=pt_BR)
 
 **What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository's URL:**  
-hxxps://github.com/m4r6i0/https---github.com-m4r6i0-malparido
+https://github.com/m4r6i0/https---github.com-m4r6i0-malparido
 
 **Have you searched for any forks of the allegedly infringing files or repositories? Each fork is a distinct repository and must be identified separately if you believe it is infringing and wish to have it taken down.**  
 
 **Is the work licensed under an open source license? If so, which open source license? Are the allegedly infringing files being used under the open source license, or are they in violation of the license?**  
 Violation of the copyright.
 
-**What would be the best solution for the alleged infringement? Are there specific changes the other person can make other than removal?** 
+**What would be the best solution for the alleged infringement? Are there specific changes the other person can make other than removal?**
 
 **Do you have the alleged infringer's contact information? If so, please provide it:**  
 
