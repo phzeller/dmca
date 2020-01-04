@@ -1,9 +1,9 @@
 **Are you the copyright owner or authorized to act on the copyright owner’s behalf?**   
 Yes   
 **Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online.**   
-The original work found [here](https://github.com/bdistin/OhGodMusicBot) is a music bot written for a chat service called discord   
+The original work found [here] (https://github.com/bdistin/OhGodMusicBot) is a music bot written for a chat service called discord   
 **What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL:**   
-The project, located [here](https://github.com/sasial-roblox/easy-discord-music) is a remake of the original work, without the provided MIT license   
+The project, located [here] (https://github.com/sasial-roblox/easy-discord-music) is a remake of the original work, without the provided MIT license   
 **Have you searched for any forks of the allegedly infringing files or repositories? Each fork is a distinct repository and must be identified separately if you believe it is infringing and wish to have it taken down.**   
 No, the provided repository does not have any forks   
 **Is the work licensed under an open source license? If so, which open source license? Are the allegedly infringing files being used under the open source license, or are they in violation of the license?**   
