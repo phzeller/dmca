@@ -4,7 +4,7 @@ Yes
 It's a full rip of our website that is being shared as a githup repo without permission
 
 **What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL:**  
-mudroljub/hero-forge -- This entire repo is an unauthorized copy of our site.
+mudroljub/hero-forge (https://github.com/mudroljub/hero-forge) -- This entire repo is an unauthorized copy of our site.
 
 **Have you searched for any forks of the allegedly infringing files or repositories? Each fork is a distinct repository and must be identified separately if you believe it is infringing and wish to have it taken down.**
 
