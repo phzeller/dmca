@@ -1,4 +1,4 @@
-1) The project [morristech/iDroid-Layout](https://github.com/morristech/iDroid-Layout) has been forked from a repository which has been made public by mistake. The code is not open source as the header on all files indicates (e.g. [morristech/iDroid-Layout/blob/master/iDroidLayout/iDroidLayout.h](https://github.com/morristech/iDroid-Layout/blob/master/iDroidLayout/iDroidLayout.h), "All rights reserved."). Morristech has been asked several times to delete the repository but never replied to any of my messages.
+1) The project [morristech/iDroid-Layout] (https://github.com/morristech/iDroid-Layout) has been forked from a repository which has been made public by mistake. The code is not open source as the header on all files indicates (e.g. [morristech/iDroid-Layout/blob/master/iDroidLayout/iDroidLayout.h] (https://github.com/morristech/iDroid-Layout/blob/master/iDroidLayout/iDroidLayout.h), "All rights reserved."). Morristech has been asked several times to delete the repository but never replied to any of my messages.
 
 2) All forked material within the repository [morristech/iDroid-Layout](https://github.com/morristech/iDroid-Layout) is infringing
 
