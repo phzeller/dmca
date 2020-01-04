@@ -2,7 +2,7 @@ my name is [private] and I'm the author hikinginfinland.com. I host
 my website on your servers, and am very happy with your services (and 
 happily would pay for them, too).
 
-Another website which is hosted also on your service is copying my 
+Another website which is hosted also on your service (Enclosure URL in question: https://github.com/hikeventures/hikeventures.github.com [added by phzeller]) is copying my 
 intellectual property nearly 1:1 and after talking with a lawyer friend 
 of mine he suggested I consult with you and bring up my case with you, 
 in order that his page might be taken down. The page in question is 
