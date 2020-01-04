@@ -8,7 +8,7 @@ IKM C++ Skills Assessment Test available only to those with authorized logins.
 
 **What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL:**
 
-joseigor / IKMCppTest
+joseigor / IKMCppTest (https://github.com/joseigor/IKMCppTest)
 
 **Have you searched for any forks of the allegedly infringing files or repositories? Each fork is a distinct repository and must be identified separately if you believe it is infringing and wish to have it taken down.**
 
