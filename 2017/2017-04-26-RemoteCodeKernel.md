@@ -6,12 +6,12 @@ the licensing.
 
 The original repository is located here:  
 
-+ github.com/dude719/RemoteCode-Kernel
++ https://github.com/dude719/RemoteCode-Kernel [comment by phzeller: original file!]
 
 The forked repositories I am referring to, and must be removed reside here:
 
-+ github.com/Noahii/RemoteCode-Kernel  
-+ github.com/A5-/RemoteCode-Kernel  
++ https://github.com/Noahii/RemoteCode-Kernel  
++ https://github.com/A5-/RemoteCode-Kernel  
 
 I have a good faith belief that use of the copyrighted materials described
 above on the infringing web pages is not authorized by the copyright owner,
