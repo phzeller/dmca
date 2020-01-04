@@ -5,10 +5,10 @@ Yes I am the owner
 I'd like you to also remove all forks of the hero-forge repo that was removed earlier today. I've reviewed the forks and they appear to all be direct copies with no additional files or commits.  
 Forks I know of are :
 
-8wgremlin / hero-forge  
-max89ac / hero-forge  
-mbussi / hero-forge  
-Riisko / hero-forge
+8wgremlin / hero-forge (https://github.com/8wgremlin/hero-forge)
+max89ac / hero-forge (https://github.com/max89ac/hero-forge)
+mbussi / hero-forge (https://github.com/mbussi/hero-forge)
+Riisko / hero-forge (https://github.com/Riisko/hero-forge)
 
 **What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL:**  
 The entire repositories, they appear to all be direct copies of the original without any changes.
