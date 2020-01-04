@@ -2,7 +2,7 @@
 I, [private], am [private] at Stratasys and authorized to act on behalf of Stratasys.
 
 **Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online.**  
-The files contained in repo calvindomenico/Decrypted-Stratasys are created, owned, and distributed by Stratasys. The files are part of a standard Stratasys software installation and prevented from redistribution by the agreed upon End User License Agreement. These files are installed as encrypted files. The fact they they are decrypted indicates a desire to distribute Stratasys intellectual property.
+The files contained in repo calvindomenico/Decrypted-Stratasys (https://github.com/calvindomenico/Decrypted-Stratasys) are created, owned, and distributed by Stratasys. The files are part of a standard Stratasys software installation and prevented from redistribution by the agreed upon End User License Agreement. These files are installed as encrypted files. The fact they they are decrypted indicates a desire to distribute Stratasys intellectual property.
 
 **What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository's URL:**  
 The entire repo should be taken down. All of the files still carry the original Stratasys copyright notice.
@@ -17,7 +17,7 @@ The original source is the proprietary and exclusive property of Stratasys, Inc.
 The best solution is to take down the repo as all of the files belong to Stratasys.
 
 **Do you have the alleged infringer's contact information? If so, please provide it:**  
-The repo calvindomenico/Decrypted-Stratasys has one contributor: [private].
+The repo calvindomenico/Decrypted-Stratasys (https://github.com/calvindomenico/Decrypted-Stratasys) has one contributor: [private].
 
 **Type (or copy and paste) the following statement: "I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law. I have taken fair use into consideration."**  
 I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law. I have taken fair use into consideration.
