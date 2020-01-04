@@ -12,9 +12,9 @@ Hazelcast IMDG (In-Memory Data Grid)
 
 **What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL.**
 
-Mr-hedy / hazelcast-license-generate  
-XiaLiangYong / hazelcast-license-generate  
-yrj2011 / hazelcast-license-generate
+Mr-hedy / hazelcast-license-generate (https://github.com/Mr-hedy/hazelcast-license-generate)
+XiaLiangYong / hazelcast-license-generate (https://github.com/XiaLiangYong/hazelcast-license-generate)
+yrj2011 / hazelcast-license-generate (https://github.com/yrj2011/hazelcast-license-generate)
 
 **Have you searched for any forks of the allegedly infringing files or repositories? Each fork is a distinct repository and must be identified separately if you believe it is infringing and wish to have it taken down.**
 
