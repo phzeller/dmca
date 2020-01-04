@@ -6,7 +6,7 @@ __What work was allegedly infringed? If possible, please provide a URL:__
 
 The files presented by github user "thesweetlegend" are in violation of copyright ownership of source code and art assets belonging to Peardrum studio:
 
-github.com/thesweetlegend/final_cut_shoot_to_kill_game
+https://github.com/thesweetlegend/final_cut_shoot_to_kill_game
 
 __What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository's URL:__
 
