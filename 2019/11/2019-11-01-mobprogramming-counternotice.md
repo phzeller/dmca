@@ -14,7 +14,7 @@ Here is a link to my ownership:
 
 the repo at
 
-github.com/isidore/mobprogrammingguidebook.github.io.
+https://github.com/isidore/mobprogrammingguidebook.github.io.
 
 **Do you want to make changes to your repository or do you want to dispute the notice?**
 
