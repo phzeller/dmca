@@ -1,6 +1,6 @@
 To Github DMCA compliance department; Please find below a
 list of material removed by you pursuant to 17 U.S.C. Section 512.
-github.com/pluspluspack/PlusPlusPack
+https://github.com/pluspluspack/PlusPlusPack
 
 I have a good faith belief that this material was removed or disabled in
 error as a result of mistake or misidentification of the material. The
