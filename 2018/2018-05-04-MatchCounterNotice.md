@@ -8,9 +8,9 @@ effectively control access to at least one of Match Group, LLC's
 copyright-protected works, and alleges that the following files
 fit this criteria:
 
-- github.com/cmpunches/Pofapi/blob/master/pofapi/POFSession.py  
-- github.com/cmpunches/Pofapi/blob/master/BroadcastExample.py  
-- github.com/cmpunches/Pofapi/blob/master/PhotoSpread.py
+- https://github.com/cmpunches/Pofapi/blob/master/pofapi/POFSession.py  
+- https://github.com/cmpunches/Pofapi/blob/master/BroadcastExample.py  
+- https://github.com/cmpunches/Pofapi/blob/master/PhotoSpread.py
 
 I believe the claims of copyright infringement are inaccurate and should
 be rejected because:
