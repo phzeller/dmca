@@ -8,14 +8,14 @@ agent of such person.
 I am responding to Inform that the claims raised in the DCMA Takedown Notice for
 the following URLs, and all commits therein and thereafter, are mistaken;
 
-github.com/SickGear/SickGear
+https://github.com/SickGear/SickGear
 
-github.com/SickGear/SickGear/commit/4c8c6b21d531850b44c18ab9fc5cf664922a0f86
+https://github.com/SickGear/SickGear/commit/4c8c6b21d531850b44c18ab9fc5cf664922a0f86
 
 From here forward, the word CLAIMANT shall be used to refer to the project
-repository "SickRageTV" located at URL github.com/SiCKRAGETV/SiCKRAGE
+repository "SickRageTV" located at URL https://github.com/SiCKRAGETV/SiCKRAGE
 The word DEFENDANT shall be used to refer to the project repository "SickGear"
-located at URL github.com/SickGear/SickGear
+located at URL http://github.com/SickGear/SickGear
 
 I swear, under penalty of perjury, that I have a good-faith belief that the
 material was removed or disabled as a result of a mistake or misidentification
@@ -48,13 +48,13 @@ d) Even if permission is given by all contributing parties for the CLAIMANT to
 take ownership at this stage under GPLv3, a retrospective claim is a mistake.
 
 The CLAIMANT license (URL 1) in violation is located at;
-github.com/SiCKRAGETV/SiCKRAGE/commit/99fb37277daf8bce54273b3128347117081745b7
+https://github.com/SiCKRAGETV/SiCKRAGE/commit/99fb37277daf8bce54273b3128347117081745b7
 
 The original authored "Sick-Beard" license is located at;
-github.com/midgetspy/Sick-Beard/blob/master/COPYING.txt
+https://github.com/midgetspy/Sick-Beard/blob/master/COPYING.txt
 
 The unchanged DEFENDANT license is located at;
-github.com/SickGear/SickGear/blob/master/COPYING.txt
+https://github.com/SickGear/SickGear/blob/master/COPYING.txt
 
 The CLAIMANT is Not a copyright holder of the DEFENDANT project or any one of
 the DEFENDANT content files.  
